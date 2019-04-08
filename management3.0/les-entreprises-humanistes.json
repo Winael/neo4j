@@ -1,0 +1,88 @@
+{
+  "title": "Les entreprises humanistes, comment elles vont changer le monde.",
+  "author": {
+    "name": "Jacques Lecomte",
+    "firstname": "Jacques",
+    "surname": "Lecomte"
+  },
+  "editor": "Les Arènes",
+  "parts": [
+    {
+      "number": 1,
+      "title": "L'épanouissement au travail.",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Être heureux au travail",
+          "citations": [
+            {
+              "citation": "Lorsque vous travaillez, vous êtes une flûte à travers laquelle le murmure des heures se transforme en musique",
+              "author": {
+                "name": "Khalil Gibran",
+                "firstname": "Khalil",
+                "surname": "Gibran"
+              }
+            },
+            {
+              "citation": "Qui agit dans la joie et se réjouit de ce qui est accompli est heureux.",
+              "author": {
+                "name": "Goethe",
+                "surname": "Goethe"
+              }
+            }
+          ],
+          "key_thoughts": [
+            {
+              "key_thought": "Malgré le scepticisme, majoritairement, les gens aiment leur travail.",
+              "tags": []
+            },
+            {
+              "key_thought": "Ce sont surtout l'intérêt de l'activité et les relations humaines qui expliquent la satisfaction au travail, plus que le salaire.",
+              "tags": ["Relations humaines", "Satisfaction au travail", "Salaire"]
+            },
+            {
+              "key_thought": "Ce n'est pas spécifique à la France.",
+              "tags": []
+            },
+            {
+              "key_thought": "Le travail est source essentielle de sens et répond à aspiration existentielle telle que : Permettre d'exprimer ses aptitudes, se réaliser, se forger une identité/d'être utile aux autres/de tisser des liens.",
+              "tags": ["Source de sens", "Aspiration Existentielle", "Exprimer ses aptitudes", "Se Réaliser", "Se forger une identité", "Être utile aux autres", "Tisser des liens", "Relations humaines"]
+            },
+            {
+              "key_thought": "Plus le travail est complexe, plus le lien entre la satisfaction au travail et la performance de l'individu se renforce.",
+              "tags": ["Travail Complexe", "Satisfaction au travail", "Performance de l'individu"]
+            },
+            {
+              "key_thought": "Plus que la satisfaction, c'est le sentiment de se sentir valorisé et reconnu pour ses compétences au sein de l'organisation qui influe sur la performance individuelle. Impression de valeur personnelle plus présente si activité présente une certaine complexite, demande des compétences personnelles, a du sens pour l'individu, l'oblige à travailler en interdépendance avec ses collègues, management participatif, respect, autonomie par le management et quand le salarié s'estime bien payé pour ses compétences",
+              "tags": ["Satisfaction au travail", "Sentiment de valorisation", "Reconnaissance des compétences", "Performance de l'individu", "Valeur personnelle", "Travail complexe", "Compétences personnelles", "Source de sens", "Tisser des liens", "Management Participatif", "Respect", "Autonomie", "Salaire"]
+            }
+          ],
+          "sections": [
+            {
+              "number": 1,
+              "title": "Se sentir en état de « flux »",
+              "key_thoughts": [
+                {
+                  "key_thought": "« Flux » ou « Experience optimale » : Etat pschologique dans lequel se trouve un individu fortement engagé dans une activité pour elle-même.",
+                  "tags": ["« Flux »"]
+                },
+                {
+                  "key_thought": "Ressentir le flux dépends de deux facteurs qui doivent agir conjointement : personne et situation.",
+                  "tags": ["« Flux »"]
+                },
+                {
+                  "key_thought": "Certaines personnes plus aptes à éprouver le flux, elles trouvent en elle-même une finalité pour ce qu'elles font. Elles sont autotélique (« autos »=soi, « telos »=finalité, but). Certaines activités sont plus susceptibles de fournir une expérience de flux.",
+                  "tags:": ["« Flux »", "Autotélie"]
+                },
+                {
+                  "key_thought": "Les caractéristique du « flux » sont : 1/ La tâche entreprise est réalisable, mais constitue un défi et exige une aptitude particulière; 2/ L'individu se concentre pleinement sur ce qu'il fait; 3/ La cible visée est claire, l'activité en cours fournit une rétroaction immédiate; 4/ La personne exerce le contrôle sur ses actions; 5/ La préoccupation de soi disparait, mais, paradoxalement le sens du soi est renforcé à la suite de l'expérience optimale",
+                  "tags": ["« Flux »", "Défi", "Concentration", "Cible claire", "Rétroaction immédiate", "Contrôle sur ses actions", "Renforcement du sens de soi"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
